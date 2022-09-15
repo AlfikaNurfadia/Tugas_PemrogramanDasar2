@@ -27,25 +27,25 @@ Program komputer saat ini sangat canggih sehingga sulit dipercaya bahwa mereka t
 
 <p align="justify">CPU melakukan kontrol program dan data pengolahan. Artinya, CPU menempatkan dan mengeksekusi instruksi program; itu melaksanakan operasi aritmatika seperti penjumlahan, pengurangan,perkalian, dan pembagian; itu mengambil datadari memori eksternal atau perangkat dan tempatdata yang diproses ke dalam penyimpanan.
 
-<p align="center"><img src="ss2.jpg">
+<p align="center"><img src="Figure1.JPG">
 
 <p align="justify">Ada dua macam penyimpanan. Penyimpanan utama,atau memori, dibuat dari sirkuit elektronik yang dapat menyimpan data, asalkan:disuplai dengan tenaga listrik. Penyimpanan sekunder, biasanya hard disk (lihat Gambar 2)atau solid-state drive, menyediakan penyimpanan yang lebih lambat dan lebih murah yang bertahan tanpa listrik. Sebuah hard disk terdiri dari piringan berputar, yang dilapisi dengan magnet bahan. Solid-state drive menggunakan komponen elektronik yang dapat menyimpan informasitanpa daya, dan tanpa bagian yang bergerak.
 
-<p align="justify">Untuk berinteraksi dengan pengguna manusia, komputer membutuhkan perangkat periferal. Komputer mentransmisikan informasi (disebut output) kepada pengguna melalui layar tampilan, speaker, dan printer. Pengguna dapat memasukkan informasi (disebut input) untuk komputerdengan menggunakan keyboard atau alat penunjuk seperti mouse.
+<p align="center"><img src="Figure2.JPG"> 
 
-<p align="center"><img src="ss3.jpg">
+<p align="justify">Untuk berinteraksi dengan pengguna manusia, komputer membutuhkan perangkat periferal. Komputer mentransmisikan informasi (disebut output) kepada pengguna melalui layar tampilan, speaker, dan printer. Pengguna dapat memasukkan informasi (disebut input) untuk komputerdengan menggunakan keyboard atau alat penunjuk seperti mouse.
 
 <p align="justify">Beberapa komputer adalah unit mandiri, sedangkan yang lain saling berhubungan melalui jaringan. Melalui kabel jaringan, komputer dapat membaca data dan program dari lokasi penyimpanan pusat atau mengirim data ke komputer lain. Untuk penggunadari komputer jaringan, bahkan mungkin tidak jelas data mana yang berada di komputeritu sendiri dan yang ditransmisikan melalui jaringan.
 
 <p align="justify">Gambar 3 memberikan gambaran skematis arsitektur komputer pribadi.
 Instruksi dan data program (seperti teks, angka, audio, atau video) berada di sekunder penyimpanan atau di tempat lain di jaringan. Ketika sebuah program dimulai, instruksinyadibawa ke memori, di mana CPU dapat membacanya. CPU membaca dan mengeksekusi satu instruksi pada suatu waktu. Seperti yang diarahkan oleh instruksi ini, CPU membacadata, memodifikasinya, dan menulisnya kembali ke memori atau penyimpanan sekunder. Beberapa programinstruksi akan menyebabkan CPU menempatkan titik-titik pada layar tampilan atau printer atau kegetaran speakernya. Karena tindakan ini terjadi berkali-kali dan dengan kecepatan tinggi,pengguna manusia akan melihat gambar dan suara. Beberapa instruksi program membaca penggunamasukan dari keyboard, mouse, sensor sentuh, atau mikrofon. Analisis programsifat input ini dan kemudian mengeksekusi instruksi yang sesuai berikutnya.
 
-<p align="center"><img src="ss4.jpg">
+<p align="center"><img src="Figure3.JPG">
 
 ### 1.1 Komputer Ada Dimana-Mana
 <p align="justify">Ketika komputer pertama kali ditemukan pada > tahun 1940-an, komputer memenuhi seluruh ruangan.  Foto di > bawah menunjukkan ENIAC (integrator numerik elektronik dan komputer), selesai pada tahun 1946 di University of Pennsylvania.  ENIAC digunakan oleh militer untuk menghitung lintasan proyektil.  Saat ini, fasilitas komputasi mesin pencari, toko internet, dan jejaring sosial memenuhi gedung-gedung besar yang disebut pusat data.  Di ujung lain spektrum, komputer ada di sekitar kita.  Ponsel Anda memiliki komputer di dalamnya, seperti halnya banyak kartu kredit dan kartu tarif untuk angkutan umum.  Sebuah mobil modern memiliki beberapa komputer––untuk mengontrol mesin, rem, lampu, dan radio.  
 
-<p align="center"><img src="ss5.jpg">
+<p align="center"><img src="TheEniac.JPG">
 
 <p align="justify">Munculnya komputasi di mana-mana berubah banyak aspek dari kami hidup.  Pabrik digunakan mempekerjakan orang untuk lakukan perakitan berulang tugas-tugas yang hari ini dilakukan oleh komputer- robot yang dikendalikan, operasi dimakan oleh segelintir orang siapa yang tahu caranya bekerja dengan komputer.  Buku, musik, dan film saat ini sering dikonsumsi di komputer, dan komputer hampir selalu terlibat dalam produksi mereka.  Buku yang sedang Anda baca sekarang tidak mungkin ditulis tanpa komputer. 
 
@@ -62,7 +62,7 @@ Instruksi dan data program (seperti teks, angka, audio, atau video) berada di se
 
 <p align="justify">Sejak saat itu, Java telah berkembang dengan kecepatan yang fenomenal. Programmer telah menggunakan bahasa ini karena lebih mudah digunakan daripada saingan terdekatnya, C++. Selain itu, Java memiliki perpustakaan yang kaya yang memungkinkan untuk menulis program portabel yang dapat melewati sistem operasi berpemilik—fitur yang sangat dicari oleh mereka yang ingin menjadi independen dari sistem berpemilik tersebut dan diperjuangkan dengan sengit oleh vendor mereka.
 
-<p align="center"><img src="ss6.jpg">
+<p align="center"><img src="Table1.JPG">
 
 <p align="justify">Java dirancang sehingga siapapun dapat menjalankan program di browser mereka tanpa takut. Fitur keamanan bahasa Java memastikan program dihentikan apabila mencoba untuk melakukan sesuatu membahayakan. Memiliki lingkungan yang aman juga membantu bagi siapapun yang mempelajari Java. Disaat Anda melakukan error yang mengakibatkan perilaku membahayakan, program Anda dihentikan dan Anda menerima laporan eror yang akurat.
 
@@ -81,7 +81,7 @@ Java telah diperpanjang berkali-kali selama masa pakainya—lihat Table 1. Dalam
 ## 1.4 Menjadi Familiar dengan Lingkungan Pemrograman Anda
 <p align="justify">Banyak siswa menemukan bahwa alat yang mereka butuhkan sebagai pemrogram sangat berbeda dari perangkat lunak yang mereka kenal. Anda harus meluangkan waktu untuk membiasakan diri dengan lingkungan pemrograman Anda. Karena sistem komputer sangat bervariasi, buku ini hanya dapat memberikan garis besar langkah-langkah yang perlu Anda ikuti. Merupakan ide bagus untuk Anda berpartisipasi dalam lab praktik, atau meminta teman yang berpengetahuan luas untuk memberi Anda penjelasan.
 
-<p align="center"><img src="ss7.jpg">
+<p align="center"><img src="Figure4.JPG">
 
 Langkah1 Mulai lingkungan pengembangan Java.
 
@@ -107,7 +107,7 @@ System.out.println("Hello,World!");
 Apa pun lingkungan pemrograman yang Anda gunakan, Anda memulai aktivitas Anda dengan mengetikkan pernyataan program ke dalam jendela editor.
 Buat file baru dan beri namaHelloPrinter.java, menggunakan langkah-langkah yang sesuai untuk lingkungan Anda. (Jika lingkungan Anda mengharuskan Anda memberikan nama proyek selain nama file, gunakan namahello untuk proyek tersebut.) Masukkan instruksi program persis seperti yang diberikan di atas. Atau, temukan salinan elektronik dalam kode pendamping buku ini dan tempelkan ke editor Anda.
 
-<p align="center"><img src="ss8.jpg">
+<p align="center"><img src="Figure5.JPG">
 
 Langkah3
  
@@ -125,7 +125,7 @@ Langkah 4 Rapikan pekerjaamu.
 
 Sebagai seorang programmer, Anda menulis program, mencobanya, dan memperbaikinya. Anda menyimpan program Anda dalam file. File disimpan dalam folder atau direktori. Sebuah folder dapat berisi
 
-<p align="center"><img src="ss9.jpg">
+<p align="center"><img src="Figure6.JPG">
 
 file serta folder lain, yang dengan sendirinya dapat berisi lebih banyak file dan folder 
 (lihat Gambar 7). 
@@ -154,7 +154,6 @@ Berikut adalah beberapa petunjuk yang perlu diingat:
 <p align="justify">
 Pada bagian ini, kita akan menganalisis program Java pertama secara rinci. Di sini adalah kode sumber.
 
-<p align="center"><img src="gambar/6.PNG" alt="" width="400px">
 
 Garis
 
@@ -237,7 +236,7 @@ Anda juga dapat mencetak nilai numerik. Misalnya pernyataan
 
 mengevaluasi ekspresi 3 + 4 dan menampilkan angka 7.
 
-<p align="center"><img src="gambar/7.PNG" alt="" width="500px">
+<p align="center"><img src="Syntax1.1.JPG">
 
 <p align="justify">
 Metode System.out.println mencetak string atau angka dan kemudian memulai baris baru. Misalnya, urutan pernyataan
@@ -370,29 +369,15 @@ Pertimbangkan masalah investasi berikut:
 
 Anda memasukkan $10.000 ke dalam rekening bank yang menghasilkan bunga 5 persen per tahun. Berapa banyak tahun yang diperlukan agar saldo akun menjadi dua kali lipat dari aslinya? Bisakah Anda memecahkan masalah ini dengan tangan? Tentu, Anda bisa. Anda mengetahui keseimbangannya sebagai berikut:
 
-<p align="center"><img src="gambar/8.PNG" alt="" width="500px">
+<p align="center"><img src="year.JPG">
 
 Anda terus berjalan sampai saldo setidaknya $20.000. Kemudian angka terakhir di tahun inikolom adalah jawabannya.
 
 <p align="justify">
 Tentu saja, melakukan perhitungan ini sangat membosankan bagi Anda atau adik laki-laki Anda. Tetapi komputer sangat pandai melakukan perhitungan berulang dengan cepat dan tanpa cacat. Yang penting bagi komputer adalah deskripsi langkah-langkah untuk menemukan solusi. Setiap langkah harus jelas dan tidak ambigu, tidak memerlukan tebak-tebakan. Berikut adalah deskripsi seperti itu:
 
-Setel tahun ke 0, saldo ke 10.000.
+<p align="center"><img src="setyear.JPG">
 
-<p align="center"><img src="gambar/9.PNG" alt="" width="250px">
-
-Ketika saldo kurang dari $20,000
-
-Tambahkan 1 ke tabel tahun.
-
-Tetapkan bunga ke saldo x 0,05 (yaitu, bunga 5 persen).
-
-Tambahkan bunga ke saldo
-
-
-<p align="center"><img src="gambar/10.PNG" alt="" width="250px">
-
-Laporan tahun sebagai jawabannya.
 <p align="justify">
 Langkah-langkah ini termasuk dalam bahasa yang belum dapat dipahami oleh komputer, tapi kamu akan segera belajar bagaimana merumuskannya dalam Java. Deskripsi ini disebut dengan pseudocode. Kami membahas aturan untuk menulis pseudocode di bagian selanjutnya.
 
@@ -443,8 +428,7 @@ Oleh karena itu, kami telah menemukan algoritme untuk menyelesaikan masalah inve
 
 ### BAGAIMANA 1.1
 **Menjelaskan algoritma dengan Pseudocode**
-<p align="center"><img src="gambar/11.PNG" alt="" width="250px">
-<p align="justify">
+
 Ini adalah yang pertama dari banyak cara bagian dalam buku ini yang memberikan Anda langkah-demi-langkah prosedur untuk melaksanakan tugas-tugas penting dalam mengembangkan program komputer.
 
 <p align="justify">
@@ -452,7 +436,6 @@ Sebelum Anda siap untuk menulis sebuah program di Java, Anda perlu mengembangkan
 
 <p align="justify">
 Pernyataan masalah	 Anda memiliki pilihan untuk membeli salah satu dari dua mobil. Satu lebih hemat bahan bakar daripada yang lain, tetapi juga lebih mahal.
-<p align="center"><img src="gambar/12.PNG" alt="" width="250px">
 
 <p align="justify">
 Anda tahu harga dan efisiensi bahan bakar (dalam mil per galon, mpg) dari kedua mobil. Anda berencana untuk menyimpan mobil selama sepuluh tahun. Asumsikan harga $4 per galon gas dan penggunaan 15.000 mil per tahun. Anda akan membayar tunai untuk mobil dan tidak khawatir tentang biaya pembiayaan. Mobil mana yang lebih baik?
@@ -540,7 +523,7 @@ Di bab-bab selanjutnya, contoh yang dikerjakan ditunjukkan dengan deskripsi sing
 **Menulis Sebuah Algoritma untuk Memasang Ubin Lantai**
 
 **Rumusan Masalah** Tulis sebuah algoritma untuk memasang ubin lantai kamar mandi persegi panjang dengan ubin hitam putih berselang-seling berukuran 4×4 inci. Dimensi lantai, diukur dalam inci, dengan kelipatan 4.
-<p align="center"><img src="gambar/13.PNG" alt="" width="250px">
+
 
 1. Tentukan input dan outputnya. Inputnya merupakan dimensi lantai (panjang × lebar), diukur dengan inci. Outputnya merupakan lantai keramik.
 
